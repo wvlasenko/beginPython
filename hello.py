@@ -4,9 +4,8 @@ counter2 = 20
 firstString = "Hello Word"
 
 
-# print("Hello")
-# print("Word")
-
-
 print(firstString)
 print(counter1+counter2)
+
+a = 10
+print(a)
